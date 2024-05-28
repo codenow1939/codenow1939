@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codenow1939
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m a Software Engineer 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me codenow1939@gmail.com
 
